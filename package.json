@@ -10,6 +10,7 @@
     "prettier": "prettier . --write"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.9.12",
     "@neondatabase/serverless": "^0.10.4",
     "drizzle-orm": "^0.38.4",
     "next": "15.1.4",
